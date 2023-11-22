@@ -41,10 +41,10 @@ No coding happened this week.
 
 **Activities:**
 
-- Activity 1 [DOS](src/lesson3/Act1dos.java)/[GUI](src/lesson3/Act1Window.java/)
-- Activity 2 [DOS](src/lesson3/Act2dos.java)/[GUI](src/lesson3/Act2Window.java/)
-- Activity 3 [DOS](src/lesson3/Act3dos.java)/[GUI](src/lesson3/Act3Window.java/)
-- Activity 4 [DOS](src/lesson3/Act4dos.java)/[GUI](src/lesson3/Act4Window.java/)
+- Activity 1 - Prelim Grade Calculator [DOS](src/lesson3/Act1dos.java)/[GUI](src/lesson3/Act1Window.java/)
+- Activity 2 - Dollar to Peso [DOS](src/lesson3/Act2dos.java)/[GUI](src/lesson3/Act2Window.java/)
+- Activity 3 - Gross Pay [DOS](src/lesson3/Act3dos.java)/[GUI](src/lesson3/Act3Window.java/)
+- Activity 4 - Net Interest [DOS](src/lesson3/Act4dos.java)/[GUI](src/lesson3/Act4Window.java/)
 
 ## Lesson 4 - Control Structures (Sequence/Selection Structure)
 
