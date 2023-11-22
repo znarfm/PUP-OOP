@@ -24,4 +24,6 @@ hs_err_pid*
 replay_pid*
 
 # User
+build/
+nbproject/
 src/lesson2/Activity3.java
