@@ -28,7 +28,6 @@ public class Switch1 {
                 double width = console.nextDouble();
                 area = length * width;
                 System.out.println("Area of the rectangle: " + area);
-                // System.out.printf("Area of the rectangle: %.4f\n", area);
                 break;
             case 'S':
                 System.out.print("Side: ");
