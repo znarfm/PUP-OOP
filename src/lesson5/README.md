@@ -39,4 +39,10 @@ Create a program that will compute the prelim, midterm, final grades of the stud
 
 ![formulas for activity 4](image.png)
 
-[Source Code]()
+[Source Code](/src/lesson5/GradeCalculator.java)
+
+### Comments
+
+This was very time consuming, yet it was a simple activity.
+BTW, this is my first time using methods in Java. So, implementation might be not that great.
+But, I needed to, since the code it very repetitive.
