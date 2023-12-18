@@ -11,9 +11,9 @@ public class Nametentimes {
 		name = scanner.nextLine();
 		int i = 0;
 		do {	
-			System.out.println(name);
+			System.out.printf("%d. %s\n", i + 1, name);
 			i++;
-		} while (i < 11);
+		} while (i < 10);
 
 		scanner.close();
 	}

@@ -13,7 +13,7 @@ public class WhileLoop {
         // while loop
         int i = 0;
         while (i < 10) {
-            System.out.println(name);
+            System.out.printf("%d. %s\n", i + 1, name);
             i++;
         }
 

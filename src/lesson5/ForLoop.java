@@ -12,7 +12,7 @@ public class ForLoop {
 
         // for loop
         for (int i = 0; i < 10; i++) {
-            System.out.println(name);
+            System.out.printf("%d. %s", i + 1, name);
         }
 
         scanner.close();
