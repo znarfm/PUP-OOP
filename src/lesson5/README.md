@@ -1,6 +1,6 @@
 # Lesson 4
 
-All about Retition Structure.
+All about Repetition Structure.
 - Do While loop
 - While loop
 - For loop
