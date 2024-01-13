@@ -1,4 +1,4 @@
-# Lesson 4
+# Lesson 6
 
 All about Arrays.
 
